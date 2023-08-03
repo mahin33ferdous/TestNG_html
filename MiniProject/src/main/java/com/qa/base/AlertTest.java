@@ -77,7 +77,7 @@ public class AlertTest {
 		
 		alert.sendKeys("Selenium");
 		Thread.sleep(3000);
-		alert.accept();//ok
+		alert.accept();//okk
 		
 	}
 	
